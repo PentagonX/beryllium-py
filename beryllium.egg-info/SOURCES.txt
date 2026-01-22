@@ -1,0 +1,8 @@
+setup.py
+beryllium/__init__.py
+beryllium/main.py
+beryllium.egg-info/PKG-INFO
+beryllium.egg-info/SOURCES.txt
+beryllium.egg-info/dependency_links.txt
+beryllium.egg-info/entry_points.txt
+beryllium.egg-info/top_level.txt
